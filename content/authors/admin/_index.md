@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include saltmarsh and barrier island geomorphology, change detection via remote sensing, and drone imagery collection techniques.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Landscape change in the Anthropocene
+- Scientific communication
+- Board sports
 
 education:
   courses:
