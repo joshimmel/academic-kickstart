@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in the Rodriguez Coastal Geology Lab
+role: PhD Student in the Rodriguez Coastal Geology Lab
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate
+  - course: PhD Student
     institution: UNC Chapel Hill
     year: 2020
   - course: BSc in Geology and Environmental Sciences
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:joshua.himmelstein@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joshimmel
