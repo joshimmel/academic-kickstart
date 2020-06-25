@@ -22,14 +22,15 @@ bio: My research interests include saltmarsh and barrier island geomorphology, c
 
 interests:
 - Landscape change in the Anthropocene
-- Scientific communication
-- Board sports
+- Remote Sensing 
+- Scientific communication and education
+
 
 education:
   courses:
   - course: PhD Student
     institution: UNC Chapel Hill
-    year: 2020
+    year: 2020-
   - course: BSc in Geology and Environmental Sciences
     institution: The College of William and Mary
     year: 2018
@@ -44,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:joshua.himmelstein@gmail.com
+  link: 'mailto:joshua.himmelstein@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joshimmel
