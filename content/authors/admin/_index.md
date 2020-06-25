@@ -14,7 +14,7 @@ role: PhD Candidate in the Rodriguez Coastal Geology Lab
 
 # Organizations/Affiliations
 organizations:
-- name: UNC Chapel Hill - Institute of Marine Science
+- name: UNC Chapel Hill Institute of Marine Science
   url: "https://ims.unc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
