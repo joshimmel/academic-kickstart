@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD Candidate
     institution: UNC Chapel Hill
-    year: 2020-
+    year: 2020
   - course: BSc in Geology and Environmental Sciences
     institution: The College of William and Mary
     year: 2018
@@ -68,6 +68,5 @@ email: "joshua.himmelstein@gmail.com"
 user_groups:
 - joshua
 - researcher
----
 
 # Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests
