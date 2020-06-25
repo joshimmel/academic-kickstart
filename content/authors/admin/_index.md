@@ -69,4 +69,4 @@ user_groups:
 - joshua
 - researcher
 
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests
+---
