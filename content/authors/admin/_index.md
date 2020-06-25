@@ -15,7 +15,7 @@ role: PhD Candidate in the Rodriguez Coastal Geology Lab
 # Organizations/Affiliations
 organizations:
 - name: UNC Chapel Hill Institute of Marine Science
-  url: "https://ims.unc.edu/"
+  url: https://ims.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include saltmarsh and barrier island geomorphology, change detection via remote sensing, and drone imagery collection techniques.
@@ -61,7 +61,7 @@ social:
   link: files/Himmelstein_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "joshua.himmelstein@gmail.com"
+email: joshua.himmelstein@gmail.com
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
