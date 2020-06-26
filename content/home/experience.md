@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-15"
   date_end = "2019-12-05"
   description = """
-  * Taught 10th and 11th Grade Physics and Biology courses as well as organized
+  * Taught 10th and 11th Grade Physics and Biology courses
   * Organized experiential hands-on learning labs
   * Facilitated teacher training workshops 
   """
