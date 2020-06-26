@@ -21,8 +21,8 @@ subtitle = ""
  # description = "90%"
   
 [[feature]]
-  icon = "drone-alt"
-  icon_pack = "fas"
+  icon = "paper-plane"
+  icon_pack = "far"
   name = "Drones"
   # description = "100%"  
   
