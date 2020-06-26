@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Joshua Himmelstein
+# title: Joshua Himmelstein
 
 # Username (this should match the folder name)
 authors:
