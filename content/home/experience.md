@@ -18,27 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD Student"
+  company = "Rodriguez Marine Geology Lab"
+  company_url = "http://rodriguez.web.unc.edu/"
+  location = "North Carolina"
+  date_start = "2020-06-22"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Solving coastal problems from the air"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Interim Researcher"
+  company = "Perron Lab at MIT"
+  company_url = "https://web.mit.edu/perron/www/"
+  location = "Massachussets"
+  date_start = "2020-01-30"
+  date_end = "2020-06-10"
+  description = """Employed Google Earth Engine to refine estimates of Terra Preta anthrosol distributions in Amazon rainforest"""
+  
+[[experience]]
+  title = "Science Lab Teacher"
+  company = "Peace Corps"
+  company_url = "https://sixthdegreenorth.wordpress.com/"
+  location = "Liberia"
+  date_start = "2018-08-15"
+  date_end = "2019-12-05"
+  description = """
+  * Taught 10th and 11th Grade Physics and Biology courses as well as organized
+  * Organized experiential hands-on learning labs
+  * Facilitated teacher training workshops 
+  """
 
 +++
