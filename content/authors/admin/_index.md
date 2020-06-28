@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:joshua.himmelstein@gmail.com'
+  link: 'joshua.himmelstein@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joshimmel
