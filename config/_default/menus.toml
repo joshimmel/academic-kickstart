@@ -8,10 +8,10 @@
 #  url = "#people"
 #  weight = 10
 
-[[main]]
-  name = "My Posts"  # A link title for your page.
-  url = "https://github.com/joshimmel/academic-kickstart/blob/master/myposts/_index.md"  # The URL of your page.
-  weight = 10  # The position of your page in the menu.
+#[[main]]
+#  name = "My Posts"  # A link title for your page.
+#  url = "https://github.com/joshimmel/academic-kickstart/blob/master/myposts/_index.md"  # The URL of your page.
+#  weight = 10  # The position of your page in the menu.
 
 [[main]]
   name = "Posts"
