@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'joshua.himmelstein@gmail.com'
+  link: 'mailto:joshua.himmelstein@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joshimmel
@@ -62,7 +62,7 @@ social:
   link: files/Himmelstein_CV_2020-06-28.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:joshua.himmelstein@gmail.com"
+email: joshua.himmelstein@gmail.com
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
