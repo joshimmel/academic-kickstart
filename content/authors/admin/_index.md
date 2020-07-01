@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: joshimmel.com/#contact
+  link: #contact
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joshimmel
