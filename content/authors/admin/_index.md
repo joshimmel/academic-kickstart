@@ -62,7 +62,7 @@ social:
   link: files/Himmelstein_CV_2020-06-28.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: joshua.himmelstein@gmail.com
+email: "mailto:joshua.himmelstein@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
