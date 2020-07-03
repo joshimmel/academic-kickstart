@@ -67,5 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
+3D Model of the UNC Institute of Marine Science (IMS)
+<iframe width="560" height="315" src="https://cloud.pix4d.com/embed/pro/mesh/705224?shareToken=c944c6f4b89e4232adaede06376fbf64" frameborder="0" allowfullscreen></iframe>
+
 Had trouble finding any solid web-based news sources with live updates of the #SaharanDust but thanks to Geostationary 
 @NOAASatellites I can see that the plume has vacated #NC's coast this morning and is wrapping southwards. Updated every 5 minutes here: https://bit.ly/3dFPacg
