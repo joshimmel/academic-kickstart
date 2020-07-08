@@ -68,7 +68,12 @@ subtitle = ""
 +++
 
 3D Model of the UNC Institute of Marine Science (IMS)
-<iframe width="560" height="315" src="https://cloud.pix4d.com/embed/pro/mesh/705224?shareToken=c944c6f4b89e4232adaede06376fbf64" frameborder="0" allowfullscreen></iframe>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/18ea6c58bfe549168e5519d71c0e9106/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/unc-institute-of-marine-sciences-18ea6c58bfe549168e5519d71c0e9106?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">UNC Institute of Marine Sciences</a>
+        by <a href="https://sketchfab.com/joshimmel?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">joshimmel</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-Had trouble finding any solid web-based news sources with live updates of the #SaharanDust but thanks to Geostationary 
-@NOAASatellites I can see that the plume has vacated #NC's coast this morning and is wrapping southwards. Updated every 5 minutes here: https://bit.ly/3dFPacg
