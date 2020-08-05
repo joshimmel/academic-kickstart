@@ -69,13 +69,5 @@ subtitle = ""
 Oyster Reef Drone Survey (July 2020)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXvOclVjsbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3D Model of the UNC Institute of Marine Science (June 2020)
-<div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="560" height="315" src="https://sketchfab.com/models/18ea6c58bfe549168e5519d71c0e9106/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-        <a href="https://sketchfab.com/3d-models/unc-institute-of-marine-sciences-18ea6c58bfe549168e5519d71c0e9106?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">UNC Institute of Marine Sciences</a>
-        by <a href="https://sketchfab.com/joshimmel?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">joshimmel</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-    </p>
-</div>
+
 
