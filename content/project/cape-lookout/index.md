@@ -1,12 +1,12 @@
 ---
-title: pybeach - a Python package for locating the dune toe on cross-shore beach profile transects.
-summary: A Python package for automatically identifying beach profile features such as the dune toe, dune crest and shoreline position
+title: Phillips Island Map
+summary: A orthomosaic of Phillips Island for UNC's planning purposes
 tags:
-- Machine Learning
-date: "2016-04-27T00:00:00Z"
+- Drones
+date: "2020-08-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/TomasBeuzen/pybeach
+external_link: https://joshuahimmelstein.users.earthengine.app/view/the-island
 
 image:
   caption:
