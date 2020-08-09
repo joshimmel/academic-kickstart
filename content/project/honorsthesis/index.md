@@ -5,7 +5,7 @@ tags:
 - saltmarsh
 - remote sensing
 - ecogeomorphology
-date: "2020-08-09T00:00:00Z"
+date: "2018-05-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://scholarworks.wm.edu/honorstheses/1216/
