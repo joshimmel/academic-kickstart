@@ -1,6 +1,6 @@
 ---
-title: Mechanisms of Pond Growth on Marshes
-summary: Undergraduate Honors Thesis at William and Mary
+title: Life in Liberia
+summary: Blog on my time teaching science with the Peace Corps in Liberia
 tags:
 - teaching
 - liberia
