@@ -66,10 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Neuse River Sediment Flow Sampling (November 2020)
+## Sampling riverine sediment flux on the Neuse River (November 2020)
+**Banks were full** - but not the ones that hold currency. These banks came long before we ascribed value to paper. Ever since land emerged from the sea, river banks have contained freshwater making its downhill journey towards the coasts. Suspended in that water float some of building blocks coastal life - carbon, nutrients, and sediments. 
+
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5qeXf_Xubxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Sampling riverine sediment flux on the Neuse River**
+
 
 Oyster Reef Drone Survey (July 2020)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXvOclVjsbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
