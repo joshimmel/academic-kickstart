@@ -69,6 +69,7 @@ subtitle = ""
 Neuse River Sediment Flow Sampling (November 2020)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5qeXf_Xubxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Sampling riverine sediment flux on the Neuse River**
 
 Oyster Reef Drone Survey (July 2020)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXvOclVjsbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
