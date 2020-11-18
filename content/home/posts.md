@@ -78,11 +78,14 @@ On Saturday, 14th of November 2020, I accompanied Dr. Eidam and Mr. Tyler Souza 
 - Optical backscatter, Conductivity, Temperature, and Depth profiles
 - Bottom Sediment Grab Samples  
 
-As Tyler fluently dipped the boat trailer into the flooded ramp, we scouted routes on the boats navigational console. We sped upstream, coasting over normally exposed topography. A couple miles in we ran our first transect. We set in the [RiverSurveyor surfboard](https://www.sontek.com/riversurveyor-s5-m9), a powerful velocity profiler that operates on the [Doppler shift principle](https://en.wikipedia.org/wiki/Doppler_effect). A bluetooth linked computer control center displayed live results of water speeds at various depths. The real-time data was fascinating, not to mention beautiful (see model image below).  
+As Tyler fluently dipped the boat trailer into the flooded ramp, we scouted routes on the boats navigational console. We sped upstream, coasting over normally exposed topography. A couple miles in we ran our first transect. We set in the [RiverSurveyor surfboard](https://www.sontek.com/riversurveyor-s5-m9), a powerful velocity profiler that operates on the [Doppler shift principle](https://en.wikipedia.org/wiki/Doppler_effect). A bluetooth linked computer control center displayed live results of water speeds at various depths. The real-time data was fascinating, not to mention beautiful (see model image below, where warm colors are higher channel-parallel velocities).  
 ![River Surveyor data example, warmer colors representing higher velocity flow](https://lh3.googleusercontent.com/proxy/bdZFBMSDVCRuAzEaaFNFI0Iez5KM-wSVxYIafNpF3ZOTeoinL4vUUj2B3FLt_9U84jfqExlsliDCaHOVBmP-c_kS5elLjKTwgN81rnCLRgEbahY3ekLoDFIzb4od2UllAOmlRPD5D0nJvhzXVOYQy1OL8Z1r)  
 
-The data collected via the surveyor will be paired with optical backscatter measurements taken at the exact same time to correlate doppler detected sediment concentrations with optical backscatter data. Once this validation is complete, low-cost optical backscatter sensors can be deployed to produce in-situ suspended sediment time-series. The robust dataset they may provide can 
+The data collected via the surveyor will be paired with optical backscatter measurements taken at the exact same time to correlate doppler detected sediment concentrations with optical backscatter data. Once this validation is complete, low-cost optical backscatter sensors can be deployed to produce in-situ suspended sediment time-series, allowing the Coastal Sediments lab to understand transport both during storms and during calmer flow periods.
 
+We repeated each cross-bank transect to validate our discharge measurements - then shifted downstream to compare. Next, we drove Northwest to set in farther upstream. The forest here was flooded, creating a brilliant mirror of trees. We performed the same routine twice more, warding off the early setting sun. **Nothing like a day of fieldwork to refresh the mind.**
+
+In the video below, look for the RiverSurveyor surfboard towed alongside the boat. Also see Tyler withdrawing a sediment sample taken from the river bed. 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5qeXf_Xubxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
