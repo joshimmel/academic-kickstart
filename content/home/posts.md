@@ -54,7 +54,7 @@ subtitle = ""
   
   # Background image.
    image = "DSC_6056.jpg"  # Name of image in `static/img/`.
-   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
    text_color_light = true  
@@ -68,6 +68,7 @@ subtitle = ""
 +++
 Neuse River Sediment Flow Sampling (November 2020)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5qeXf_Xubxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Oyster Reef Drone Survey (July 2020)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXvOclVjsbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
