@@ -73,13 +73,18 @@ It was the latter we were after. Just days before, the entrails of Tropical stor
 
 ![](https://water.weather.gov/resources/hydrographs/kinn7_hg.png)  
 
-On Saturday, 14th of November 2020, I accompanied Dr. Eidam and Mr. Souza of the [Coastal sediments lab](http://sed.web.unc.edu/people/) to measure a suite of flow characteristics that would help explain exactly how much land is brought to sea during storms. 
+On Saturday, 14th of November 2020, I accompanied Dr. Eidam and Mr. T Souza of the [Coastal sediments lab](http://sed.web.unc.edu/people/) to measure a suite of flow characteristics that would help explain exactly how much land is brought to sea during storms. Our mission was straightforward - drive from Chapel Hill towards the coastal plain, set in a motorboat, and record. Specifically we would measure:
+- Discharge (the volume of water flowing down-river)
+- Optical backscatter, Conductivity, Temperature, and Depth profiles
+- Bottom Sediment Grab Samples  
+
+The 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5qeXf_Xubxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-Oyster Reef Drone Survey (July 2020)
+## Oyster Reef Drone Survey (July 2020)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXvOclVjsbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
