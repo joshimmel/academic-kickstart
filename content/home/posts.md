@@ -67,9 +67,14 @@ subtitle = ""
  css_class = ""
 +++
 ## Sampling riverine sediment flux on the Neuse River (November 2020)
-**Banks were full** - but not the ones that hold currency. These banks came long before we ascribed value to paper. Ever since land emerged from the sea, river banks have contained freshwater making its downhill journey towards the coasts. Suspended in that water float some of building blocks coastal life - carbon, nutrients, and sediments. 
-It was the latter we were after. Just days before, the entrails of Tropical storm Eta brought upwards of [10" of rain to the Tarheel State](https://thehill.com/changing-america/resilience/natural-disasters/525850-eta-flash-floods-turn-deadly-in-north-carolina#:~:text=At%20least%20seven%20are%20dead%20and%20three%20are%20missing.&text=Some%20areas%20of%20the%20Tarheel,two%20adults%20are%20still%20missing). Tragic flooding ensued, with extensive overland flows dragging sediment into rivers. 
-![](https://water.weather.gov/resources/hydrographs/kinn7_hg.png)
+**Banks were full** - but not the ones that hold currency. These banks came long before we ascribed value to paper. Ever since land emerged from the sea, river banks have contained freshwater making its downhill journey towards the coasts. Suspended in that water float some of building blocks of coastal life - carbon, nutrients, and sediments.  
+
+It was the latter we were after. Just days before, the entrails of Tropical storm Eta brought upwards of [10" of rain to the Tarheel State](https://thehill.com/changing-america/resilience/natural-disasters/525850-eta-flash-floods-turn-deadly-in-north-carolina#:~:text=At%20least%20seven%20are%20dead%20and%20three%20are%20missing.&text=Some%20areas%20of%20the%20Tarheel,two%20adults%20are%20still%20missing). Tragic flooding followed, and extensive overland flows washed land into rivers. Still, days after, the flood stage in the Neuse River rises.  
+
+![](https://water.weather.gov/resources/hydrographs/kinn7_hg.png)  
+
+On Saturday, 14th of November 2020, I accompanied Dr. Eidam and Mr. Souza of the [Coastal sediments lab](http://sed.web.unc.edu/people/) to measure a suite of flow characteristics that would help explain exactly how much land is brought to sea during storms. 
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5qeXf_Xubxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
