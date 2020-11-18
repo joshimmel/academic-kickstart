@@ -73,12 +73,15 @@ It was the latter we were after. Just days before, the entrails of Tropical stor
 
 ![](https://water.weather.gov/resources/hydrographs/kinn7_hg.png)  
 
-On Saturday, 14th of November 2020, I accompanied Dr. Eidam and Mr. T Souza of the [Coastal sediments lab](http://sed.web.unc.edu/people/) to measure a suite of flow characteristics that would help explain exactly how much land is brought to sea during storms. Our mission was straightforward - drive from Chapel Hill towards the coastal plain, set in a motorboat, and record. Specifically we would measure:
+On Saturday, 14th of November 2020, I accompanied Dr. Eidam and Mr. Tyler Souza of the [Coastal sediments lab](http://sed.web.unc.edu/people/) to measure a suite of flow characteristics that would help explain exactly how much land is brought to sea during storms. Our mission was straightforward - drive from Chapel Hill towards the coastal plain, set in a motorboat, and record. Specifically, we would measure:
 - Discharge (the volume of water flowing down-river)
 - Optical backscatter, Conductivity, Temperature, and Depth profiles
 - Bottom Sediment Grab Samples  
 
-The 
+As Tyler fluently dipped the boat trailer into the flooded ramp, we scouted routes on the boats navigational console. We sped upstream, coasting over normally exposed topography. A couple miles in we ran our first transect. We set in the [RiverSurveyor surfboard](https://www.sontek.com/riversurveyor-s5-m9), a powerful velocity profiler that operates on the [Doppler shift principle](https://en.wikipedia.org/wiki/Doppler_effect). A bluetooth linked computer control center displayed live results of water speeds at various depths. The real-time data was fascinating, not to mention beautiful (see model image below).  
+![River Surveyor data example, warmer colors representing higher velocity flow](https://lh3.googleusercontent.com/proxy/bdZFBMSDVCRuAzEaaFNFI0Iez5KM-wSVxYIafNpF3ZOTeoinL4vUUj2B3FLt_9U84jfqExlsliDCaHOVBmP-c_kS5elLjKTwgN81rnCLRgEbahY3ekLoDFIzb4od2UllAOmlRPD5D0nJvhzXVOYQy1OL8Z1r)  
+
+The data collected via the surveyor will be paired with optical backscatter measurements taken at the exact same time to correlate doppler detected sediment concentrations with optical backscatter data. Once this validation is complete, low-cost optical backscatter sensors can be deployed to produce in-situ suspended sediment time-series. The robust dataset they may provide can 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5qeXf_Xubxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
