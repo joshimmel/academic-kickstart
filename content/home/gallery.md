@@ -8,6 +8,8 @@ weight = 70  # Order that this section will appear.
 title = "Gallery"
 subtitle = ""
 
+
+
 [content]
   # Page type to display. E.g. project.
   page_type = "gallery"
@@ -75,3 +77,4 @@ subtitle = ""
  css_class = ""
 +++
 
+{{< gallery album="album" >}}
