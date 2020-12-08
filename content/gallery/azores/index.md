@@ -12,4 +12,3 @@ image:
   caption:
   focal_point: Smart
 ---
-{{< gallery album="album" >}}
