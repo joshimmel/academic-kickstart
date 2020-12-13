@@ -12,4 +12,4 @@ image:
   caption:
   focal_point: Smart
 ---
-![Lake of Fire]https://github.com/joshimmel/academic-kickstart/blob/master/content/gallery/album/fogo.jpg
+![Lake of Fire](https://github.com/joshimmel/academic-kickstart/blob/master/content/gallery/album/fogo.jpg)
