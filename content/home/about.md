@@ -1,3 +1,5 @@
+
+
 +++
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -32,3 +34,9 @@ author = "admin"
   # Text color (true=light or false=dark).
    text_color_light = true  
 +++
+
+# About me
+
+I am PhD Student at the [Univeristy of North Carolina at Chapel Hill](https://www.unc.edu/) in the [Institute of Marine Sciences](https://ims.unc.edu/). My research interests lie in coastal sediments - their origins and fates. Marshes act as metronomes of sea-level rise, recording changes in inundation within their soils. By tracking the pace of North Carolina’s rapidly shifting wetlands through time and space, I aim to better explain feedbacks between topography and sedimentation. Which areas of our coast are naturally resilient to rising tides – and how can these areas inform preservation efforts?
+
+Outside of this research, you might find me [in the great outdoors](https://www.strava.com/athletes/49210500), [teaching hands-on science](https://sixthdegreenorth.wordpress.com/), [cooking with others](https://photos.app.goo.gl/NVNG1qLAGS6ktRUz7), or [flying a drone](https://youtu.be/5qeXf_Xubxs).
