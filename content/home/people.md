@@ -1,4 +1,3 @@
-#About Me
 
 +++
 # A "Meet the Team" section created with the People widget.
