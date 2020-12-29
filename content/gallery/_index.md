@@ -1,1 +1,14 @@
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/191566562@N05/albums/72157717614108293" title="Drone Imagery"><img src="https://live.staticflickr.com/65535/50776921941_4ea0e588ca_z.jpg" width="640" height="480" alt="Drone Imagery"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+---
+title: Gallery
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
