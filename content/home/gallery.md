@@ -44,7 +44,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -77,4 +77,4 @@ subtitle = ""
  css_class = ""
 +++
 
-
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191566562@N05/albums/72157717614108293" title="Drone Imagery"><img src="https://live.staticflickr.com/65535/50776921941_2e1e29f53f_h.jpg" width="1600" height="1200" alt="Drone Imagery"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
