@@ -5,6 +5,7 @@ tags:
 - teaching
 - liberia
 - peace corps
+- outreach
 date: "2019-12-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
