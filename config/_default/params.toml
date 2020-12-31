@@ -100,14 +100,14 @@ address = {street = "3431 Arendell Street", city = "Morehead City", region = "NC
 coordinates = {latitude = "34.723727", longitude = "-76.751926"}
 
 # Directions for visitors to locate you.
-directions = "Main Building Room 124"
+# directions = "Main Building Room 124"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "highdef_portrait2_HD.PNG"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "joshimmel"
