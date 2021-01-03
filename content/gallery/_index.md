@@ -1,5 +1,5 @@
 ---
-title: Gallery
+# title: Gallery
 
 # View.
 #   1 = List
@@ -8,9 +8,10 @@ title: Gallery
 view: 1
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+# header:
+#  caption: ""
+#  image: ""
+
 ---
 <a class="full-width" data-flickr-embed="true" href="https://www.flickr.com/photos/191566562@N05/albums/72157717648430968" title="Azores"><img src="https://live.staticflickr.com/65535/50784126227_5dec74e1b7_h.jpg" width="1600" height="1200" alt="Azores"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
