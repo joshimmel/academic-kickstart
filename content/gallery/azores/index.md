@@ -1,5 +1,5 @@
 ---
-title: Lagoa du Fogo
+title: Azores (August 2019)
 summary: Caldera Lake in the Azores and other photos.
 tags:
 date: "2019-08-04T00:00:00Z"
