@@ -11,4 +11,4 @@ date: "2018-06-04T00:00:00Z"
 #  focal_point: Smart
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/gp/191566562@N05/3hVbW0" title="Liberia"><img src="https://live.staticflickr.com/65535/50783486308_dd58f86223_h.jpg" width="1600" height="1200" alt="Liberia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/191566562@N05/2w82Z7" title="Liberia"><img src="https://live.staticflickr.com/65535/50783486308_dd58f86223_h.jpg" width="1600" height="1200" alt="Liberia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
