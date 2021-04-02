@@ -1,9 +1,6 @@
 ---
 title: One Earth Marsh Paper 2021
-summary: The sea level rise threshold for marsh drowning is lower than previously thought.
-No marsh equilibrium after crossing the threshold for local marsh drowning;
-Resilience of microtidal marshes depends weakly on inorganic sediment supply;
-Predicted widespread loss of microtidal marshes through runaway fragmentation.
+summary: The sea level rise threshold for marsh drowning is lower than previously thought. No marsh equilibrium after crossing the threshold for local marsh drowning; Resilience of microtidal marshes depends weakly on inorganic sediment supply; Predicted widespread loss of microtidal marshes through runaway fragmentation.
 tags:
 - Salt Marsh
 - Model
