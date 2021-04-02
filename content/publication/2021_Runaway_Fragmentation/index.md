@@ -7,7 +7,7 @@ tags:
 date: "2021-03-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: https://doi.org/10.1016/j.oneear.2021.02.013
+external_link: https://doi.org/10.1016/j.oneear.2021.02.013
 
 image:
   caption:
