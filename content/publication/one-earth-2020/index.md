@@ -1,7 +1,7 @@
 +++
 title = "Onset Fragmentation of Salt Marshes"
 date = "2021-03-25"
-
+<!-- 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
@@ -78,6 +78,6 @@ math = false
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "" -->
 
  +++
