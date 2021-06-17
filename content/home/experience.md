@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "PhD Student"
   company = "Rodriguez Marine Geology Lab"
@@ -24,8 +25,11 @@ date_format = "Jan 2006"
   location = "North Carolina"
   date_start = "2020-06-22"
   date_end = ""
-  description = """Solving coastal problems from the air"""
-
+  description = """
+  * Solving coastal problems from the air using drone-based photogrammetry 
+  * Extracting sediment cores to recreate post-development deposition patterns across North Carolina's saltmarsh habitats
+  """
+  
 [[experience]]
   title = "Interim Researcher"
   company = "Perron Lab at MIT"
