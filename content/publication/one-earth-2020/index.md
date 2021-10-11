@@ -3,7 +3,7 @@ title = "Onset Fragmentation of Salt Marshes"
 date = "2021-03-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Orencio Duran Vinent", "Ellen R. Herbert", "Daniel Coleman", "Joshua Himmelstein", "Matthew Kirwan"]
 
 # Publication type.
 # Legend:
@@ -17,8 +17,8 @@ authors = []
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "Cell Press: One Earth"
+publication_short = "CP One Erth"
 
 # Abstract.
 abstract = "Salt marshes are valuable but vulnerable coastal ecosystems that adapt to relative sea level rise (RSLR) by accumulating organic matter and inorganic sediment. The natural limit of these processes defines a threshold rate of RSLR beyond which marshes drown, resulting in ponding and conversion to open waters. We develop a simplified formulation for sediment transport across marshes to show that pond formation leads to runaway marsh fragmentation, a process characterized by a self-similar hierarchy of pond sizes with power-law distributions. We find the threshold for marsh fragmentation scales primarily with tidal range and that sediment supply is only relevant where tides are sufficient to transport sediment to the marsh interior. Thus the RSLR threshold is controlled by organic accretion in microtidal marshes regardless of the suspended sediment concentration at the marsh edge. This explains the observed fragmentation of microtidal marshes and suggests a tipping point for widespread marsh loss."
