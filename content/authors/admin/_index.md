@@ -57,7 +57,7 @@ social:
   icon_pack: fab
   link: https://github.com/joshimmel
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/Himmelstein_CV.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `Himmelstein, Josh_CurriculumVitae.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/2021-06-10_Himmelstein-CV.pdf
