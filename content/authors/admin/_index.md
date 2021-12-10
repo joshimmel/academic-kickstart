@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `Himmelstein, Josh_CurriculumVitae.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/2021-06-10_Himmelstein-CV.pdf
+  link: files/Himmelstein, Josh_CurriculumVitae.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: joshua.himmelstein@gmail.com
