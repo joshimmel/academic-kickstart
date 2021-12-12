@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 05  # Order that this section will appear.
 
 # title = "agu"
 # subtitle = ""
@@ -12,7 +12,7 @@ weight = 65  # Order that this section will appear.
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "gallery"
+  page_type = "agu"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5

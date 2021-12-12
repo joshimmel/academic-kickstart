@@ -1,8 +1,8 @@
 ---
-title: Azores (August 2019)
-summary: Caldera Lake in the Azores and other photos.
+title: AGU 2021
+summary:
 tags:
-date: "2019-08-04T00:00:00Z"
+date: "2021-12-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: https://joshuahimmelstein.users.earthengine.app/view/the-island
