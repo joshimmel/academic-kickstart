@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 # title = "agu"
 # subtitle = ""
@@ -92,4 +92,4 @@ weight = 70  # Order that this section will appear.
  css_class = ""
 +++
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/191566562@N05/albums/72157717614108293" title="Drone Imagery"><img src="https://live.staticflickr.com/65535/50993050503_15e35c0a63_h.jpg" width="1600" height="1200" alt="Drone Imagery"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Thanks for visiting! I will present my poster titled [Effects of Increasing Coastal Sediment Loads on Tidal-creek Levee Morphology](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/863326) from 17:00-19:00 PM on Wednesday, December 15th. If you'd like to have conversations or meet up outside of that time, send me a text at Six 0 Three, Three 5 Nine, Six 4 8 Zero! I'd love to connect with you at AGU 2021 or in New Orleans. 

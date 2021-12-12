@@ -14,7 +14,7 @@
 #  weight = 10  # The position of your page in the menu.
 [[main]]
   name = "AGU"
-  url = "#AGU"
+  url = "#agu"
   weight = 10
 
 [[main]]
