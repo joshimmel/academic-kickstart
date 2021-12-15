@@ -91,4 +91,4 @@ weight = 05  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-Thanks for visiting! I will present my poster titled [Effects of Increasing Coastal Sediment Loads on Tidal-creek Levee Morphology](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/863326) from 17:00-19:00 PM on Wednesday, December 15th. If you'd like to have conversations or meet up outside of that time, send me a text at Six 0 Three, Three 5 Nine, Six 4 8 Zero! I'd love to connect with you at AGU 2021 or in New Orleans. 
+Thanks for visiting! I will present my poster titled [Effects of Increasing Coastal Sediment Loads on Tidal-creek Levee Morphology](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/863326) from 16:00-18:00 PM on Wednesday, December 15th. Poster Number 1488, Coastal Ecosystem Structure, Function, and Dynamics. If you'd like to have conversations or meet up outside of that time, send me a text at Six 0 Three, Three 5 Nine, Six 4 8 Zero! I'd love to connect with you at AGU 2021 or in New Orleans. 
