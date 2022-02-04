@@ -1,6 +1,6 @@
 ---
-title: Sampling riverine sediment flux on the Neuse River (July 2021)
-summary: Recounting a day at the Oyster Reef
+title: A fabled cross-estuarine Oyster Reef (July 2021)
+summary: Recounting a day in the field and our following methods
 tags:
 - Oyster
 - Radioisotope
