@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Interim Researcher"
   company = "Perron Lab at MIT"
-  company_url = "https://web.mit.edu/perron/www/"
+  company_url = "https://taylorperron.org/"
   location = "Massachussets"
   date_start = "2020-01-30"
   date_end = "2020-06-10"
