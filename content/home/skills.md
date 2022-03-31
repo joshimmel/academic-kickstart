@@ -15,13 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "hourglass"
+  icon = "hourglass-start"
   icon_pack = "fas"
   name = "Sedimentology"
  # description = "90%"
   
 [[feature]]
-  icon = "drone"
+  icon = "drone-alt"
   icon_pack = "fas"
   name = "Drones"
   # description = "100%"
