@@ -15,14 +15,14 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-hourglass"
-  icon_pack = "fas"
+  icon = "hourglass"
+  icon_pack = "fal"
   name = "Sedimentology"
  # description = "90%"
   
 [[feature]]
-  icon = "fa-drone"
-  icon_pack = "fas"
+  icon = "drone"
+  icon_pack = "fal"
   name = "Drones"
   # description = "100%"
   
