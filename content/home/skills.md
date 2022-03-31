@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "map-marked-alt"
+  icon = "hourglass"
   icon_pack = "fas"
-  name = "Mapping"
+  name = "Sedimentology"
  # description = "90%"
   
 [[feature]]
-  icon = "paper-plane"
-  icon_pack = "far"
+  icon = "drone"
+  icon_pack = "fas"
   name = "Drones"
-  # description = "100%"  
+  # description = "100%"
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photogrammetry"
+  name = "GIS"
   # description = "10%"
 
 # Uncomment to use emoji icons.
