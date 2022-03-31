@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "hourglass"
-  icon_pack = "fal"
+  icon_pack = "fas"
   name = "Sedimentology"
  # description = "90%"
   
 [[feature]]
   icon = "drone"
-  icon_pack = "fal"
+  icon_pack = "fas"
   name = "Drones"
   # description = "100%"
   
