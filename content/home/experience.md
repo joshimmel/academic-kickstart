@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   date_start = "2020-06-22"
   date_end = ""
   description = """
-  * Solving coastal problems from the air using drone-based photogrammetry 
+  * Solving coastal problems from the air using drone-based photogrammetry
+  * Using Low-cost Open Source turbidity sensors to track contemporary suspended sediment gradients 
   * Extracting sediment cores to recreate post-development deposition patterns across North Carolina's saltmarsh habitats
   """
   
