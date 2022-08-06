@@ -6,7 +6,7 @@ tags:
 date: "2022-08-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://joshuahimmelstein.users.earthengine.app/view/the-island
+external_link: https://ncseagrant.ncsu.edu/news/2022/03/nc-sea-grant-and-apnep-name-new-joint-fellow/
 
 image:
   caption:
