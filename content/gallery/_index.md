@@ -24,9 +24,9 @@ view: 2
 .full-width {
   width: 100vw;
   position: relative;
-  left: 00%;
+  /* left: 00%;
   right: 00%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-}
+  margin-left: 0vw;
+  margin-right: 0vw;
+} */
 </style>
