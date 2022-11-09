@@ -24,14 +24,21 @@
   weight = 30
 
 [[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 40
+
+[[main]]
+  name = "Media"
+  url = "#media"
+  weight = 45
+
+
+[[main]]
   name = "Gallery"
   url = "#gallery"
   weight = 50
 
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 40
 
 [[main]]
   name = "Contact"
@@ -43,4 +50,4 @@
 [[main]]
     name = "CV"
     url = "https://docs.google.com/document/d/1mbGe_Kx9mj1i0J0NfDwGzh5XNjgo0LfUuPKVkCHqH8U/edit?usp=sharing"
-    weight = 72
+    weight = 70
