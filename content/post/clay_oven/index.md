@@ -1,5 +1,5 @@
 ---
-title: Cob: A Clay, Sand, and Straw Story
+title: Cob - A Clay, Sand, and Straw Story
 summary: Celebrating 1 Year with a Backyard Pizza Oven
 tags:
 - Sediment
