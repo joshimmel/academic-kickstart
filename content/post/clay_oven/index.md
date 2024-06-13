@@ -8,8 +8,8 @@ date: "2024-06-13T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 # external_link: 
 
-image: 
-  caption:
+image: ![Best_pizza](https://github.com/joshimmel/academic-kickstart/assets/64810887/7fc5e0ca-959b-42f1-9b88-cd334f517470)
+  caption: "First Fire"
   focal_point: Smart
 ---
 
