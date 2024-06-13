@@ -1,5 +1,5 @@
 ---
-title: Cob - A Clay, Sand, and Straw Story (March 2024)
+title: Cob - A Clay, Sand, and Straw Story (June 2024)
 summary: Celebrating 1 Year with a Backyard Pizza Oven
 tags:
 - Sediment
