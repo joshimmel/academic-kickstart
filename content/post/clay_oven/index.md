@@ -3,7 +3,7 @@ title: Cob - A Clay, Sand, and Straw Story (March 2024)
 summary: Celebrating 1 Year with a Backyard Pizza Oven
 tags:
 - Sediment
-date: "2024-03-28T00:00:00Z"
+date: "2024-06-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 
@@ -37,8 +37,12 @@ Using our hands, we packed cantaloupe-sized warbled spheres of cob and began thr
 ![image](https://github.com/joshimmel/academic-kickstart/assets/64810887/e89acd56-4112-492d-9bb3-c4268d2b7a9d)
 
 
-One month later: Moisture evacuated. Platelets of clay, angular grains of sand, and strands of straw all commingled into an oven dome as hard as, well, rock! After vigorously scooping out the sand with a shovel and a noodling arm, the structure held.
+One month later: Moisture evacuated. Platelets of clay, angular grains of sand, and strands of straw all commingled into an oven dome as hard as, well, rock! After vigorously scooping out the sand with a shovel and a noodling arm, the structure held. Fire in the hole!
 
+![First_fire](https://github.com/joshimmel/academic-kickstart/assets/64810887/59b9ab48-aa2a-4baf-8df6-c1b2d22c5660)
 
+The first fire - room for growth.
 
+![Best_pizza](https://github.com/joshimmel/academic-kickstart/assets/64810887/7fc5e0ca-959b-42f1-9b88-cd334f517470)
 
+Baked in Sixty Seconds!
