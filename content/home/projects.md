@@ -1,3 +1,22 @@
+<div style="text-align: center; margin-bottom: 1em;">
+  <button onclick="document.getElementById('voila-frame').src='https://mybinder.org/v2/gh/joshimmel/interactive-correlation-plot/HEAD?urlpath=voila/render/interactive_correlation_plot.ipynb'"
+          style="padding: 10px 20px; font-size: 1rem; cursor: pointer;">
+    ▶️ Launch Interactive Plot
+  </button>
+
+  <a href="https://github.com/joshimmel/interactive-correlation-plot" target="_blank"
+     style="margin-left: 20px; text-decoration: none; font-size: 1rem;">
+    📁 View Code on GitHub
+  </a>
+</div>
+
+<iframe id="voila-frame"
+        width="100%"
+        height="900"
+        frameborder="0"
+        allowfullscreen
+        style="border: 1px solid #ccc;"></iframe>
+
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
