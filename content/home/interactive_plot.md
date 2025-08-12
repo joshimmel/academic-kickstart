@@ -2,9 +2,9 @@
 # Embed Voilà Binder Plot in a new homepage section.
 widget = "blank"
 headless = true
-active = true
-weight = 25  # Adjust to control order on page (20 = above About, 65 = above Projects)
-title = "Explore Sediment Correlations"
+active = false
+weight = 66  # Adjust to control order on page (20 = above About, 65 = above Projects)
+title = "Correlate Sedimentation with Core Properties and Environmental Variables"
 +++
 
 <iframe
