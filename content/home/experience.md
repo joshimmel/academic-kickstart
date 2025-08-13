@@ -26,9 +26,10 @@ date_format = "Jan 2006"
   date_start = "2020-06-22"
   date_end = ""
   description = """
-  * Solving coastal problems from the air using drone-based photogrammetry
-  * Using Low-cost Open Source turbidity sensors to track contemporary suspended sediment gradients 
-  * Extracting sediment cores to recreate post-development deposition patterns across North Carolina's saltmarsh habitats
+  * Use high-resolution age-depth modelling of sediment cores to recreate depositional histories
+  * Build low-cost turbidity sensors to track contemporary suspended sediment gradients 
+  * Map coastal systems using drone-based photogrammetry
+  * Model water levels to relate to barrier island storm recovery
   """
   
 [[experience]]
@@ -38,7 +39,10 @@ date_format = "Jan 2006"
   location = "Massachussets"
   date_start = "2020-01-30"
   date_end = "2020-06-10"
-  description = """Employed Google Earth Engine to refine estimates of Terra Preta anthrosol distributions in Amazon rainforest"""
+  description = """
+  * Used machine learning in Google Earth Engine to identify spectrally distinct rainforest canopies
+  * Refined Terra Preta anthrosol distributions in Amazon rainforest
+  """
   
 [[experience]]
   title = "Science Lab Teacher"
@@ -50,7 +54,19 @@ date_format = "Jan 2006"
   description = """
   * Taught 10th and 11th Grade Physics and Biology courses
   * Organized experiential hands-on learning labs
-  * Facilitated teacher training workshops 
+  * Facilitated teacher training workshops
+  """
+
+[[experience]]
+  title = "Research Technician"
+  company = "Kirwan Lab at VIMS"
+  company_url = "https://mattkirwanmarsh.com"
+  location = "Virginia"
+  date_start = "2015-10-15"
+  date_end = "2018-05-10"
+  description = """
+  * Designed and conducted research on patterns of marsh drowning
+  * Aided in deployment and monitoring of turbidity sensors
   """
 
 +++
