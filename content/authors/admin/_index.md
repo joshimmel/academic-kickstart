@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in the Rodriguez Coastal Geology Lab
+role: PhD in the Rodriguez Coastal Geology Lab
 
 # Organizations/Affiliations
 organizations:
@@ -29,9 +29,9 @@ interests:
 
 education:
   courses:
-  - course: PhD Student
+  - course: PhD in Earth, Marine, and Environmental Sciences
     institution: UNC Chapel Hill
-    year: 2020-
+    year: 2026
   - course: BSc in Geology and Environmental Sciences
     institution: The College of William and Mary
     year: 2018
