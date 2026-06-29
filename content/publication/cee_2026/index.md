@@ -17,8 +17,8 @@ authors = ["Joshua D. Himmelstein","Lilian M. Cooper", "Brent A. McKee","Antonio
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Geophysical Research: Earth Surface"
-publication_short = "JGR Earth Surface"
+publication = "Communications Earth and Environment"
+publication_short = "Comms E&E"
 
 # Abstract.
 abstract = "Many small coastal plain watersheds have experienced extensive land clearing and increased sediment loading as coastal populations expand, yet microtidal marsh platforms are failing to keep pace with sea-level rise while adjacent subtidal areas are infilling. Here, we developed sub-decadal records of sedimentation from the shoreline into the salt marsh in watersheds with distinct land-use histories to determine how emerging microtopography may promote this disconnect. We find a divergence in marsh vertical evolution across short distances ( < 10 meters) and timescales ( < 20 years). Rapid accretion at the marsh edge ( > 10 millimeters per year), a product of sediment loading from deforestation and lateral shoreline erosion, is negatively correlated with contemporaneous interior marsh accretion, suggesting an increasingly prominent levee may reduce interior sedimentation by rerouting flow, trapping sediment, or inhibiting vegetation growth. These findings suggest pulses of suspended sediment can temporarily enhance levee prominence in ways that undermine marsh resilience to sea-level rise."
