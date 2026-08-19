@@ -11,12 +11,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in the Rodriguez Coastal Geology Lab
+role: Postdoctoral Researcher in the River and Stream Sciences Lab
 
 # Organizations/Affiliations
 organizations:
-- name: UNC Chapel Hill Earth, Marine, and Environmental Sciences
-  url: https://emes.unc.edu/
+- name: Colby College Earth Sciences Department
+  url: https://www.colby.edu/academics/departments-and-programs/earth-sciences/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include saltmarsh and barrier island geomorphology, change detection via remote sensing, and drone imagery collection techniques.
