@@ -93,14 +93,14 @@ phone = "603 359 6480"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "3431 Arendell Street", city = "Morehead City", region = "NC", postcode = "28557", country = "United States", country_code = "US"}
+address = {street = "4000 Mayflower Drive", city = "Waterville", region = "ME", postcode = "04901", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.723727", longitude = "-76.751926"}
+coordinates = {latitude = "44.5642736", longitude = "-69.6625166"}
 
 # Directions for visitors to locate you.
-# directions = "Main Building Room 124"
+directions = "Mudd 213"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
