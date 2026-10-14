@@ -19,12 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Postdoctoral Researcher"
+  company = "River and Stream Sciences Lab"
+  company_url = "https://scholar.google.com/citations?user=CwhGeP0AAAAJ&hl=en"
+  location = "Maine"
+  date_start = "2026-08-10"
+  date_end = ""
+  description = """
+  * Remote sensing of Arctic permafrost landslides and vegetation's capacity to moderate their sediment delivery to rivers
+  * Testing ICESat-2 potential to quantify slump recovery
+  * Measuring local river suspended sediments
+  """
+
+[[experience]]
   title = "PhD Student"
   company = "Rodriguez Marine Geology Lab"
   company_url = "http://rodriguez.web.unc.edu/"
   location = "North Carolina"
   date_start = "2020-06-22"
-  date_end = ""
+  date_end = "2026-07-10"
   description = """
   * Use high-resolution age-depth modelling of sediment cores to recreate depositional histories
   * Build low-cost turbidity sensors to track contemporary suspended sediment gradients 
